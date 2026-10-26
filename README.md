@@ -21,3 +21,4 @@ A functional web application focused on backend operations for managing gym regi
 ## 🛠️ Tech Stack
 * **Framework & Language:** ASP.NET Web Forms / C#
 * **Database:** SQL Server
+<img width="1214" height="643" alt="image" src="https://github.com/user-attachments/assets/eaf3c78a-0636-4f51-be6e-3b3aed66bb92" />
