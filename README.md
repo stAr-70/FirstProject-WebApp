@@ -22,3 +22,6 @@ A functional web application focused on backend operations for managing gym regi
 * **Framework & Language:** ASP.NET Web Forms / C#
 * **Database:** SQL Server
 <img width="1214" height="643" alt="image" src="https://github.com/user-attachments/assets/eaf3c78a-0636-4f51-be6e-3b3aed66bb92" />
+<img width="1212" height="579" alt="image" src="https://github.com/user-attachments/assets/b6c52598-103c-4091-ba57-19fe9191b90f" />
+<img width="1215" height="628" alt="image" src="https://github.com/user-attachments/assets/e1a4e180-591f-4af4-9732-fc25345eeead" />
+
